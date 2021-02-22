@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lockdown-recipes/static/css/main.5e2a5432.chunk.css",
+    "main.js": "/lockdown-recipes/static/js/main.892fdf99.chunk.js",
+    "main.js.map": "/lockdown-recipes/static/js/main.892fdf99.chunk.js.map",
+    "runtime-main.js": "/lockdown-recipes/static/js/runtime-main.35b3a247.js",
+    "runtime-main.js.map": "/lockdown-recipes/static/js/runtime-main.35b3a247.js.map",
+    "static/js/2.e02133bc.chunk.js": "/lockdown-recipes/static/js/2.e02133bc.chunk.js",
+    "static/js/2.e02133bc.chunk.js.map": "/lockdown-recipes/static/js/2.e02133bc.chunk.js.map",
+    "static/js/3.58e383a3.chunk.js": "/lockdown-recipes/static/js/3.58e383a3.chunk.js",
+    "static/js/3.58e383a3.chunk.js.map": "/lockdown-recipes/static/js/3.58e383a3.chunk.js.map",
+    "index.html": "/lockdown-recipes/index.html",
+    "static/css/main.5e2a5432.chunk.css.map": "/lockdown-recipes/static/css/main.5e2a5432.chunk.css.map",
+    "static/js/2.e02133bc.chunk.js.LICENSE.txt": "/lockdown-recipes/static/js/2.e02133bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b3a247.js",
+    "static/js/2.e02133bc.chunk.js",
+    "static/css/main.5e2a5432.chunk.css",
+    "static/js/main.892fdf99.chunk.js"
+  ]
+}
